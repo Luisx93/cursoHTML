@@ -1,3 +1,3 @@
-## Página web de pruebas
+## Etiquetas HMTL & semantica
 
 Pruebas en git y GitHub
